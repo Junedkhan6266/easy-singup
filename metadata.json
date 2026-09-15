@@ -1,0 +1,6 @@
+{
+  "name": "OneTap - Universal 1-Click Sign Up",
+  "description": "Universal 1-click sign-up system for any website or app with privacy alias generation, smart DOM form autofill injector, passkey vault, and bookmarklet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
